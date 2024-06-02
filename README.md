@@ -8,6 +8,7 @@ Provides a API that return the weather forecast to the 5 next days and store int
 ## Getting Started
 ### Cloning repository
 - Run the command `git clone https://github.com/vitorleao/weatherAPI.git` and open the folder with `cd weatherAPI`
+- Rename `.env-example` to `.env`
 
 ### Creating virtual enviroment
 - Tip `python -m venv venv` to create.
